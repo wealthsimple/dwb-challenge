@@ -19,16 +19,22 @@ If you hold any stocks at the end of the time period given, they will be sold at
 
 ### Input/Output
 ##### Input Format (From File, in.csv):
-2012-09-01,142.45
+2012-09-01,142.45 # The price for the day is 142.45
+
 2012-09-02,142.98
+
 2012-09-05,144.11
+
 2012-09-06,143.35
 
 ##### Output Format (To File, out.csv):
-2012-09-01,500
+2012-09-01,500 # buy 500 stocks
+
 2012-09-02,500
-2012-09-05,-1000
-2012-09-06,1000
+
+2012-09-05,-1000 # sell 1000 stocks
+
+2012-09-06,0 # 0 means hold all stocks
 
 ### Winning
 The winner will be the team that has the highest profit at the end of the data set given. 
