@@ -1,4 +1,4 @@
-# dwb-challenge
+# Wealthsimple Lightning Challenge
 
 ### Background
 The stock market is a marketplace to trade securities. Securities, or stocks, are a way for people to own parts of a public company. For example, Facebook and Google have their stocks traded on stock markets in the USA.
