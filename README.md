@@ -44,3 +44,5 @@ The prize is a pair of Bose QC25 Headphones.
 
 # Updates
 You must handle any input errors, like malformed dates or empty prices. You can handle them any way you like, including skipping output for that day.
+
+Our testing suite will be smart enough to handle skipped days, so you're welcome to output nothing for days with no trades.
