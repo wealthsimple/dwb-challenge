@@ -40,3 +40,7 @@ If you hold any stocks at the end of the time period given, they will be sold at
 The winner will be the team that has the highest profit at the end of the data set given. 
 
 The prize is a pair of Bose QC25 Headphones.
+
+
+# Updates
+You must handle any input errors, like malformed dates or empty prices. You can handle them any way you like, including skipping output for that day.
